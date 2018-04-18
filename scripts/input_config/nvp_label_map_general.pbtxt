@@ -1,0 +1,95 @@
+item {
+  name: "stairs"
+  id: 1
+  display_name: "stairs"
+}
+item {
+  name: "door"
+  id: 2
+  display_name: "door"
+}
+item {
+  name: "car"
+  id: 3
+  display_name: "car"
+}
+item {
+  name: "bicycle"
+  id: 4
+  display_name: "bicycle"
+}
+item {
+  name: "motorcycle"
+  id: 5
+  display_name: "motorcycle"
+}
+item {
+  name: "tree"
+  id: 6
+  display_name: "tree"
+}
+item {
+  name: "pole"
+  id: 7
+  display_name: "pole"
+}
+item {
+  name: "handrail"
+  id: 8
+  display_name: "handrail"
+}
+item {
+  name: "trashcan"
+  id: 9
+  display_name: "trashcan"
+}
+item {
+  name: "zebracrossing"
+  id: 10
+  display_name: "zebracrossing"
+}
+item {
+  name: "desk"
+  id: 11
+  display_name: "desk"
+}
+item {
+  name: "chair"
+  id: 12
+  display_name: "chair"
+}
+item {
+  name: "sofa"
+  id: 13
+  display_name: "sofa"
+}
+item {
+  name: "monitor"
+  id: 14
+  display_name: "monitor"
+}
+item {
+  name: "bed"
+  id: 15
+  display_name: "bed"
+}
+item {
+  name: "cup"
+  id: 16
+  display_name: "cup"
+}
+item {
+  name: "bowl"
+  id: 17
+  display_name: "bowl"
+}
+item {
+  name: "mobilephone"
+  id: 18
+  display_name: "mobilephone"
+}
+item {
+  name: "person"
+  id: 19
+  display_name: "person"
+}

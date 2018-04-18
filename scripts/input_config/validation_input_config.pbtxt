@@ -1,0 +1,4 @@
+label_map_path: '/home/quanwang/work/object_detection_nvp_train/scripts/input_config/nvp_label_map_general.pbtxt'
+tf_record_input_reader: {
+    input_path: '/mnt/extdisk1/datasets/tfrecord/quanwang/1/nvp_val_detections.record'
+}
